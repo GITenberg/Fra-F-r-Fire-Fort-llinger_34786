@@ -1,0 +1,27 @@
+_repo: Fra-F-r-Fire-Fort-llinger_34786
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34786-h/images/cover.png
+creator:
+  author:
+    agent_name: Sørensen, Carl
+    alias: Sorensen, Carl
+    birthdate: 1875
+    gutenberg_agent_id: '37228'
+    url: http://www.gutenberg.org/2009/agents/37228
+description: ''
+gutenberg_issued: '2010-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34786'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish literature'
+- !lcc 'PT'
+tableOfContents: Lippen -- Bryllup -- Magtesløs -- Niels.
+title: 'Fra Færø: Fire Fortællinger'
+url: http://www.gutenberg.org/ebooks/34786
